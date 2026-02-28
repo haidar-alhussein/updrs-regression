@@ -1,5 +1,5 @@
-streamlit==1.30.0
+streamlit
 pandas
 numpy
 joblib
-tensorflow==2.13.0
+tensorflow
